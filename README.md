@@ -2,7 +2,7 @@
 
 Sample project to demonstrate all scripts and code learned about Cypress
 
-# Pre-requirements
+## Pre-requirements
 
 It is required to have Node.js and npm installed to run this project
 
@@ -14,9 +14,19 @@ Run `npm install` (or `npm i` for the short version) to install the dev dependen
 
 ## Tests
 
+In this project, you can run desktop and mobile viewport
+
+### Desktop
+
 Run npm test (or npm t for the short version) to run the test in headless mode.
 
 Or, run npm run cy:open to open Cypress in interactive mode.
+
+### Mobile
+
+Run npm test:mobile (or npm t for the short version) to run the test in headless mode.
+
+Or, run npm run cy:open:mobile to open Cypress in interactive mode.
 
 ## Support this project
 
