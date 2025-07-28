@@ -169,4 +169,8 @@ describe('Central de Atendimento ao Cliente TAT', () => {
     cy.contains('h1', 'CAC TAT - Política de Privacidade').should('be.visible')
     cy.contains('p', 'Talking About Testing').should('be.visible')
   })
+
+  it.only('testando responsividade mobile para iphone 6', () => {
+    cy.viewport('iphone-x')
+  })
   })
