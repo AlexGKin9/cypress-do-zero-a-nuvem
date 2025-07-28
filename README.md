@@ -2,11 +2,7 @@
 
 👋 Seja bem-vindo(a)!
 
-<<<<<<< HEAD
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai amar esse curso. ❤️
-=======
-## Pre-requirements
->>>>>>> new-read-me-and-learnig-code-cypress
 
 ## O que você vai aprender?
 
@@ -29,24 +25,4 @@ Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
 
 ___
 
-<<<<<<< HEAD
 Este é um curso da **Escola Talking About Testing**.
-=======
-In this project, you can run desktop and mobile viewport
-
-### Desktop
-
-Run npm test (or npm t for the short version) to run the test in headless mode.
-
-Or, run npm run cy:open to open Cypress in interactive mode.
-
-### Mobile
-
-Run npm test:mobile (or npm t for the short version) to run the test in headless mode.
-
-Or, run npm run cy:open:mobile to open Cypress in interactive mode.
-
-## Support this project
-
-If you want to support this project, leave a ⭐.
->>>>>>> new-read-me-and-learnig-code-cypress
